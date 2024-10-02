@@ -1,6 +1,4 @@
-# Postman Exploratory Testing Toolkit
-
-Welcome to the **Postman Exploratory Testing Toolkit**! This repository is designed to help folks condusct comprehensive API testing using Postman. It includes a variety of resources such as test data, Postman collections, scripts, and guides to enhance your API testing process.
+Welcome to the **Postman Exploratory Testing Toolkit**! This repository is designed to help folks conduct comprehensive API testing using Postman. It includes a variety of resources such as test data, Postman collections, scripts, and guides to enhance your API testing process.
 
 ## Introduction
 
