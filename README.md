@@ -16,21 +16,21 @@ git clone https://github.com/exc304/api-testing-toolkit.git
 3. Import Collections and Environments
 - Open Postman
 - Click **Import**
-- Select the fiels from the **Postman Collections** folder
+- Select the files from the **Postman Collections** folder
 
 ## Repository Structure
 The repository is organized into the following directories:
-- Test Data
+- **Test Data**
   - Contains various test data files to simulate different imput scenarios, such as special characters, boiundary values, and invalid formats
-- Postman Collections
+- **Postman Collections**
   - Includes reusable Postman collections and environment configurations for different testing environments
-- Guides
+- **Guides**
   - Provides in-depth documentation and tutorials on API testing methodologies, advances Postman features, and best practices
-- Utilities
+- **Utilities**
   - Offers scripts and tools to enhance testing capabilities, such as data generators and response validators
-- Performance Testing
+- **Performance Testing**
   - Contains resources for load and stress testing, including guidea and sample test plans
-- Mock APIs
+- **Mock APIs**
   - Features mock API definitions to facilitate testing without affecting live environments
-- Documentation
+- **Documentation**
   - Additional resources and information, such as useful external links and FAQs
